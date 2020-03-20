@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#ff000033",
+        "editor.selectionBackground": "#924f4f",
+        "editor.selectionHighlightBackground": "#02ff286b",
+        "editor.foldBackground": "#00000005",
+        "activityBar.background": "#133421",
+        "titleBar.activeBackground": "#1B492E",
+        "titleBar.activeForeground": "#F7FCF9"
+    }
+}

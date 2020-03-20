@@ -1,0 +1,12 @@
+| Bandeira |Número do cartão|
+| ------ | ------ |
+| Mastercard | 5555666677778884 |
+| Visa | 4012001037141112 |
+| Elo | 6362970000457013 |
+| American Express | 376449047333005 |
+| Hipercard | 6062824762285745 |
+| Diners Club | 36490102462661 |
+| Cabal | 6042001234567890 |
+| Grandcard | 6050329990211823 |
+| Sorocred | 6278920100000000 |
+| Banesecard | 6361170000000000 |
